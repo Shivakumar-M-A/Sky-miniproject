@@ -1,1 +1,1 @@
-# Sky-miniproject
+# Sky-miniprojects
